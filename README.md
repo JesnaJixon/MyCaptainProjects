@@ -1,2 +1,2 @@
-# MyCaptainProjects
-All of my MyCaptain Projects.
+# PythonMyCaptainProjects
+All of my Python MyCaptain Projects.
